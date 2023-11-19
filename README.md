@@ -1,6 +1,6 @@
 ### Hi! I'm Kaustubh Patange
 
-A self-taught Android developer focused on all sorts of Android (sometimes Windows) things,
+A self-taught full-stack engineer,
 
 - I develop and maintain many open-sourced apps (pinned).
 - I'm currently maintaining [navigator](https://github.com/KaustubhPatange/navigator), [AutoBindings](https://github.com/KaustubhPatange/AutoBindings) Android libraries.
