@@ -1,6 +1,6 @@
 ### Hi! I'm Kaustubh Patange
 
-A self-taught full-stack engineer, proficient in Mobile Apps, Web, Backend, and Cloud. Apart from this,
+A self-taught full-stack engineer, proficient in Mobile Apps, Web, Backend, Cloud and Generative AI. Apart from this,
 
 - I develop and maintain many open-sourced apps (pinned).
 - I'm currently maintaining [navigator](https://github.com/KaustubhPatange/navigator), [AutoBindings](https://github.com/KaustubhPatange/AutoBindings) Android libraries.
