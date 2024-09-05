@@ -3,8 +3,7 @@
 A self-taught full-stack engineer, proficient in Mobile Apps, Web, Backend, Cloud and Generative AI. Apart from this,
 
 - I develop and maintain many open-sourced apps (pinned).
-- I'm currently maintaining [navigator](https://github.com/KaustubhPatange/navigator), [AutoBindings](https://github.com/KaustubhPatange/AutoBindings) Android libraries.
-- I write articles on [Medium](https://kaustubhpatange.medium.com/) & sometimes on my [personal blog](https://kaustubhpatange.github.io/blog) where I take deep dive into certain interesting topics.
+- I write articles on [Medium](https://kaustubhpatange.medium.com/) & sometimes on my [personal blog](https://kaustubhpatange.com/blog) where I take deep dive into certain interesting topics.
 - I like to know how things work internally.
 
 ### Connect with me:
